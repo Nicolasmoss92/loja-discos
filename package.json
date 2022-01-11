@@ -1,0 +1,29 @@
+{
+  "name": "projeto-nodejs-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juunegreiros/nodejs-api-rest.git"
+  },
+  "author": "Nicolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juunegreiros/nodejs-api-rest/issues"
+  },
+  "homepage": "https://github.com/juunegreiros/nodejs-api-rest#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mysql": "^2.17.1",
+    "mysql-upgrade": "^0.1.2",
+    "nodemon": "^2.0.7"
+  }
+}

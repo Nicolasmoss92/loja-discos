@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# ProjetoAlura-TrilhaNode.js
 
-Trilha de Node.js Alura
-=======
 # Loja de Discos
 
 # Introdução

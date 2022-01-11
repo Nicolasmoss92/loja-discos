@@ -23,4 +23,3 @@ Tem como funcionalidade integrar parte de um sistema pai completo de atendimento
 No seguinte sistema ele ira relacionar a tabela de 'cliente' vs 'produto'. Exibindo todos os itens que o cliente botou em seu carrinho. 
 
 
->>>>>>> d7bb4b5291ae2850ec531d4a4c511496e7e037e3

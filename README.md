@@ -10,6 +10,7 @@ Este seguinte software é um micro serviço que foi criado com a intençao de se
 # Tecnologias usada
 
 - JavaScript
+- Node
 - MySql
 
 # Inicialização
